@@ -3,11 +3,11 @@ self.addEventListener('install', (event) => {
       caches.open('mi-juego-pwa-cache').then((cache) => {
         return cache.addAll([
           '/',
-          '/index.html',
-          '/game.js',
-          '/manifest.json',
-          '/icono.png',
-          '/icono-512.png'
+          'index.html',
+          'game.js',
+          'manifest.json',
+          'icono.png',
+          'icono-512.png'
         ]);
       })
     );
