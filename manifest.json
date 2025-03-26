@@ -1,7 +1,7 @@
 {
     "name": "Mi Juego PWA",
     "short_name": "JuegoPWA",
-    "description": "Descripción de mi juego",
+    "description": "Un juego increíble creado con GDevelop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
