@@ -12,6 +12,8 @@ gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects1= [];
 gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects2= [];
 gdjs.Escena_32sin_32t_237tuloCode.GDfondoObjects1= [];
 gdjs.Escena_32sin_32t_237tuloCode.GDfondoObjects2= [];
+gdjs.Escena_32sin_32t_237tuloCode.GDNewSprite2Objects1= [];
+gdjs.Escena_32sin_32t_237tuloCode.GDNewSprite2Objects2= [];
 
 
 gdjs.Escena_32sin_32t_237tuloCode.mapOfGDgdjs_9546Escena_959532sin_959532t_9595237tuloCode_9546GDenlace1Objects1Objects = Hashtable.newFrom({"enlace1": gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects1});
@@ -65,6 +67,8 @@ gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects1.length = 0;
 gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects2.length = 0;
 gdjs.Escena_32sin_32t_237tuloCode.GDfondoObjects1.length = 0;
 gdjs.Escena_32sin_32t_237tuloCode.GDfondoObjects2.length = 0;
+gdjs.Escena_32sin_32t_237tuloCode.GDNewSprite2Objects1.length = 0;
+gdjs.Escena_32sin_32t_237tuloCode.GDNewSprite2Objects2.length = 0;
 
 gdjs.Escena_32sin_32t_237tuloCode.eventsList1(runtimeScene);
 gdjs.Escena_32sin_32t_237tuloCode.GDimagen_95951Objects1.length = 0;
@@ -79,6 +83,8 @@ gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects1.length = 0;
 gdjs.Escena_32sin_32t_237tuloCode.GDenlace1Objects2.length = 0;
 gdjs.Escena_32sin_32t_237tuloCode.GDfondoObjects1.length = 0;
 gdjs.Escena_32sin_32t_237tuloCode.GDfondoObjects2.length = 0;
+gdjs.Escena_32sin_32t_237tuloCode.GDNewSprite2Objects1.length = 0;
+gdjs.Escena_32sin_32t_237tuloCode.GDNewSprite2Objects2.length = 0;
 
 
 return;
